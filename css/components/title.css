@@ -4,3 +4,7 @@ h1 {
     color: #F25A70;
     text-shadow: #000 4px 4px;
 }
+
+#box h1 {
+    margin-bottom: 28px;
+}
