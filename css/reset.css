@@ -1,3 +1,7 @@
+body {
+    font-family: "Fira Code", Arial, monospace, sans-serif;
+}
+
 body,
 header,
 h1,
@@ -5,4 +9,11 @@ h2,
 h3 {
     margin: 0px;
     padding: 0px;
+}
+
+button {
+    font-size: 20px;
+    color: #FFF;
+    border: none;
+    font-family: inherit;
 }
